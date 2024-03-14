@@ -30,6 +30,8 @@ To build a robust dataset for training the rejection email classifier, consider 
 
 5. **Data Augmentation**: If you have a limited dataset, you can use data augmentation techniques to artificially increase the size of your dataset. This can involve adding noise to existing emails or generating synthetic emails based on existing samples.
 
+To contribute to the dataset, please fill out the following [form](https://forms.gle/Hoe9oMHpLQ51hhaf8).
+
 
 ## Project Timeline
 1. **Data Collection Phase (1 month)**:

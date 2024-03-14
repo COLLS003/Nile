@@ -15,6 +15,21 @@ To contribute to the Nile project, follow these steps:
 4. **Contribute to Chrome Plugin Development**: Contribute to the development of the Chrome plugin, which will integrate the email classifier into users' email clients for seamless detection of rejection emails.
 5. **Submit Pull Requests**: Submit pull requests to the project repository with improvements, bug fixes, or new features.
 6. **Provide Feedback**: Share feedback and suggestions for improving the Nile project's functionality and usability.
+7. 
+## How to Obtain the Dataset
+
+To build a robust dataset for training the rejection email classifier, consider the following methods:
+
+1. **Crowdsourcing**: You can crowdsource the collection of rejection and non-rejection emails by asking volunteers to contribute emails they have received. This approach can help gather a diverse range of emails from different sources and industries.
+
+2. **Public Datasets**: Look for publicly available datasets that contain email data. While these datasets may not be specifically labeled for rejection or non-rejection, you can manually label the emails or use automated techniques to classify them.
+
+3. **Scraper Tools**: Use web scraping tools to extract emails from online sources, such as job boards or company websites. Be mindful of privacy and data protection laws when collecting emails in this way.
+
+4. **Custom Email Collection**: Collect emails from your own network or contacts, ensuring you have permission to use the data for training purposes. This approach can provide a more controlled and targeted dataset.
+
+5. **Data Augmentation**: If you have a limited dataset, you can use data augmentation techniques to artificially increase the size of your dataset. This can involve adding noise to existing emails or generating synthetic emails based on existing samples.
+
 
 ## Project Timeline
 1. **Data Collection Phase (1 month)**:
